@@ -1,1 +1,1 @@
-Ejercicios de Logica con estructuras de datos (listas,grafos) en lenguaje C.
+Ejercicios de Logica con estructuras de datos (listas,arboles,grafos) en lenguaje C.
